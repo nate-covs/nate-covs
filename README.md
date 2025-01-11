@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nate-covs
-- 👀 I’m interested in the gym, music, and cars.
-- 🌱 I’m currently a sophmore in computer science at the University of Colorado Boulder.
-- 💞️ I’m looking to collaborate on anything really, I am just starting out on github and learning so I don't know too much yet.
+- 👀 I’m interested in many things such as music, vehicles and how things work.
+- 🌱 I’m currently a junior in computer science at the University of Colorado Boulder.
+- 💞️ I’m looking to collaborate on anything really, always looking to learn more!
 - 📫 How to reach me naco2555@colorado.edu.
 
 
